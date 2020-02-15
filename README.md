@@ -8,5 +8,5 @@ This is an implementation of card Flip animation in android
 </div>
 
 <br/>
-<h3>Dependencies</h3>
-<p>implementation 'androidx.cardview:cardview:1.0.0'</p>
+**Dependencies**
+~implementation 'androidx.cardview:cardview:1.0.0~
