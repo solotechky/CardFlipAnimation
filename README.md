@@ -1,4 +1,4 @@
 # CardFlipAnimation
 This is an implementation of card Flip animation in android
 
-<img src="images/anim.gif" height="300"/>
+<img src="images/anim.gif" height="400"/>
