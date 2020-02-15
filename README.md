@@ -11,9 +11,7 @@ This is an implementation of card Flip animation in android
 <h3>Dependencies</h3>
 
 ```
-function test() {
-  console.log("implementation 'androidx.cardview:cardview:1.0.0");
-}
+  implementation 'androidx.cardview:cardview:1.0.
 ```
 
 
