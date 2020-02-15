@@ -10,6 +10,8 @@ This is an implementation of card Flip animation in android
 <br/>
 <h3>Dependencies</h3>
 
+add the following dependency in your ```build.gradle (Module:app)``` file
+
 ```
   implementation 'androidx.cardview:cardview:1.0.
 ```
